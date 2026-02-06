@@ -1,6 +1,6 @@
 # 👋 Aman Singh
 
-🎓 MCA (GoldCET) | Gold Medalist  
+🎓 MCA | Gold Medalist  
 📊 Data Science | Machine Learning | Deep Learning  
 📡 Signal & Image Processing | Computer Vision  
 
